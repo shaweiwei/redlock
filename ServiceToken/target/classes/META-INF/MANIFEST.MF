@@ -1,0 +1,40 @@
+Manifest-Version: 1.0
+Implementation-Title: ServiceToken
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ko
+Specification-Title: ServiceToken
+Implementation-Vendor-Id: redlock
+Class-Path: lib/spring-boot-starter-1.5.8.RELEASE.jar lib/spring-boot-
+ 1.5.8.RELEASE.jar lib/spring-context-4.3.12.RELEASE.jar lib/spring-bo
+ ot-autoconfigure-1.5.8.RELEASE.jar lib/spring-boot-starter-logging-1.
+ 5.8.RELEASE.jar lib/logback-classic-1.1.11.jar lib/logback-core-1.1.1
+ 1.jar lib/jcl-over-slf4j-1.7.25.jar lib/jul-to-slf4j-1.7.25.jar lib/l
+ og4j-over-slf4j-1.7.25.jar lib/spring-core-4.3.12.RELEASE.jar lib/sna
+ keyaml-1.17.jar lib/spring-boot-starter-web-1.5.8.RELEASE.jar lib/spr
+ ing-boot-starter-tomcat-1.5.8.RELEASE.jar lib/tomcat-embed-core-8.5.2
+ 3.jar lib/tomcat-annotations-api-8.5.23.jar lib/tomcat-embed-el-8.5.2
+ 3.jar lib/tomcat-embed-websocket-8.5.23.jar lib/hibernate-validator-5
+ .3.5.Final.jar lib/validation-api-1.1.0.Final.jar lib/jboss-logging-3
+ .3.0.Final.jar lib/classmate-1.3.1.jar lib/jackson-databind-2.8.10.ja
+ r lib/jackson-annotations-2.8.0.jar lib/spring-web-4.3.12.RELEASE.jar
+  lib/spring-aop-4.3.12.RELEASE.jar lib/spring-beans-4.3.12.RELEASE.ja
+ r lib/spring-webmvc-4.3.12.RELEASE.jar lib/spring-expression-4.3.12.R
+ ELEASE.jar lib/spring-boot-starter-data-redis-1.5.8.RELEASE.jar lib/s
+ pring-data-redis-1.8.8.RELEASE.jar lib/spring-data-keyvalue-1.2.8.REL
+ EASE.jar lib/spring-data-commons-1.13.8.RELEASE.jar lib/spring-tx-4.3
+ .12.RELEASE.jar lib/spring-oxm-4.3.12.RELEASE.jar lib/spring-context-
+ support-4.3.12.RELEASE.jar lib/jedis-2.9.0.jar lib/commons-pool2-2.4.
+ 2.jar lib/redisson-3.3.2.jar lib/netty-common-4.1.8.Final.jar lib/net
+ ty-codec-4.1.8.Final.jar lib/netty-buffer-4.1.8.Final.jar lib/netty-t
+ ransport-4.1.8.Final.jar lib/netty-resolver-4.1.8.Final.jar lib/netty
+ -handler-4.1.8.Final.jar lib/cache-api-1.0.0.jar lib/reactor-stream-2
+ .0.8.RELEASE.jar lib/reactor-core-2.0.8.RELEASE.jar lib/reactive-stre
+ ams-1.0.0.jar lib/slf4j-api-1.7.21.jar lib/jackson-dataformat-yaml-2.
+ 8.7.jar lib/jackson-core-2.8.7.jar
+Main-Class: com.redlock.BootApplication
+Caller-Allowable-Codebase: 
+Permissions: 
+Build-Jdk: 1.8.0_101
+Specification-Version: 0.0.1-SNAPSHOT
+Created-By: Maven Integration for Eclipse
+
